@@ -1,0 +1,114 @@
+.box{
+	width: 1110px;
+	height: 672px;
+	border:1px solid black;
+	background-image: url(../img/Фон.png);
+	position: relative;
+}
+.polar1{
+	margin-left: 45px;
+	margin-right: 45px;
+	margin-top: 10px;
+}
+.polar2{
+margin-left: 45px;
+	margin-right: 45px;
+	margin-top: 10px;
+	
+}
+.polar3{
+	margin-left: 40px;
+	margin-right: 40px;
+	margin-top: 10px;
+	
+}
+.knopki{
+    position: absolute;
+    left: 35px;
+}
+.shast{
+	position: absolute;
+	left: 0;
+	bottom: 0;
+}
+.obl{
+	 left: 273px;
+	position: absolute;
+	top :395px;
+}
+.textUz{
+    text-align: center;
+    font-family: Times New Romans;
+    font-size: 24px;
+    position: absolute;
+    left: 310px;
+    bottom: 155px;
+}
+.tel{
+	position: absolute;
+	right: 70px;
+	bottom: 0;
+
+}
+.but{
+	display: flex;
+	flex-direction: column;
+	position: absolute;
+     right: 116px;
+    bottom: 0px;
+
+}
+.but1{
+    border-radius: 12px;
+    width: 344px;
+    height: 55px;
+    background-color: #bcbfc3;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.but2{
+	border-radius: 12px;
+    width: 344px;
+    height: 55px;
+    font-size: 20px;
+    background-color: #bcbfc3;
+    margin-bottom: 15px;
+}
+.but3{
+	border-radius: 12px;
+    width: 344px;
+    height: 55px;
+    font-size: 20px;
+    background-color: #bcbfc3;
+    margin-bottom: 15px;
+    }
+    #Uz1{
+    display:none;
+    font-size: 40px;
+    width: 776px;
+    height: 550PX;
+}
+#Uz2{
+	display: none;
+	font-size: 40px;
+    width: 776px;
+    height: 550PX;
+}
+#Uz3{
+	display: none;
+	font-size: 40px;
+    width: 776px;
+   height: 575PX;
+}
+.angry{
+	position: absolute;
+	bottom: 0;
+	left: 120px;
+}
+.never1{
+	margin-left: 125px;
+}
+.never2{
+	margin-left: 20px;
+}
